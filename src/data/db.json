@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "id": "1", "title": "Ergonomic Modern Chair", "price": 120, "stock": 5, "category": "Furniture", "description": "Comfortable office chair with lumbar support." },
+    { "id": "2", "title": "Minimalist Wooden Table", "price": 250, "stock": 3, "category": "Furniture", "description": "Solid oak dining table for modern interior." },
+    { "id": "3", "title": "Nordic Leather Sofa", "price": 450, "stock": 2, "category": "Furniture", "description": "Premium 3-seater luxury Scandinavian style sofa." }
+  ]
+}
